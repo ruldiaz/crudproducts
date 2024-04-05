@@ -1,3 +1,14 @@
+/* ./src/index.css */
+
+/* Include the base styles */
+@tailwind base;
+
+/* Include the component styles */
+@tailwind components;
+
+/* Include the utility styles */
+@tailwind utilities;
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
